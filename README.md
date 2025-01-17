@@ -1,0 +1,1 @@
+# Codeforces-standings-generator
