@@ -1,0 +1,32 @@
+
+@contest "Private Div.3 test 1"
+@contlen 60
+@problems 20
+@teams 1
+@submissions 5
+@p A,Turtle,Puzzle: Rearrange and Negate,20,0
+@p B,Turtle Math: Fast Three Task,20,0
+@p C,Turtle Fingers: Count the Values of k,20,0
+@p D,Rook,20,0
+@p E,YetnotherrokenKeoard,20,0
+@p F,Removal of Unattractive Pairs,20,0
+@p G,Number Replacement,20,0
+@p H,Even-Odd Increments ,20,0
+@p I,Traffic Light,20,0
+@p J,Do Not Be Distracted!,20,0
+@p K,Ordinary Numbers,20,0
+@p L,Not Adjacent Matrix,20,0
+@p M,Make it White,20,0
+@p N,Following the String,20,0
+@p O,Choose the Different Ones!,20,0
+@p P,Right Left Wrong,20,0
+@p Q,Rudolf and the Ball Game,20,0
+@p R,Turtle Tenacity: Continual Mods,20,0
+@p S,Left and Right Houses,20,0
+@p T,Removal of Unattractive Pairs,20,0
+@t 1,0,1,"Fighting, fun!"
+@s 1,A,1,383,OK
+@s 1,D,1,435,OK
+@s 1,E,1,442,OK
+@s 1,B,1,532,OK
+@s 1,C,1,556,OK
