@@ -29,7 +29,8 @@ fileName = argv[1]
 file = open(fileName, "r", encoding="utf-8")
 
 filecon = file.readlines()
-del filecon[0]
+if filecon[0][0] != '@':
+	del filecon[0]
 
 file.close()
 
